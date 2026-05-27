@@ -1,4 +1,3 @@
-# TEN-CyberSecurity-Tasks-nmap-scan
 # TEN Cybersecurity Internship - Task 1: Nmap Scan
 
 ## Objective
